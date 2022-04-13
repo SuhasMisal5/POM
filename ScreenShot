@@ -1,0 +1,10 @@
+Package Screen;
+public static class Screen {
+
+public static void main(String[] arges)
+{
+
+system.out.print("I m Print");
+
+}
+}
